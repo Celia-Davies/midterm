@@ -17,8 +17,8 @@ figure img{
     width: 100%;
 }
 
-#logo{
-    width: 100;
+#logo img{
+    width: 100px;
     padding-top: 8px;
 }
 
@@ -37,7 +37,7 @@ h1{
     display: inline-block;
     font-size: .85rem;
     text-transform: uppercase;
-    text-decoration: underline 2px solid #ff3530;
+    border-bottom: 2px solid #ff3530;
 }
 
 figcaption, .news, .author, time, .subtitle, h2{
